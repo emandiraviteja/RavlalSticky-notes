@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">sticky_notes</string>
+    <string name="enter_your_note">Enter your Note</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="click_to_start_making_note">Click to Start making Note.</string>
+
+</resources>
